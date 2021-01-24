@@ -1,6 +1,6 @@
 version: 2.1
 jobs:hehehe
-  build:
+  build:nooce
     docker:
       - image: fr3akyphantom/droid-builder:latest
     environment:
