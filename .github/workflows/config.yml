@@ -10,7 +10,7 @@ jobs:hehehe
       CODENAME:'RMX1831'
       FLAVOR:'eng'
       PB_OFFICIAL:'true'
-      CHANGELOG: |
+      CHANGELOG:hehebii
         - Initial Build
     working_directory: /home/builder/pitchblack
     steps:
