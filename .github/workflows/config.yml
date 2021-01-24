@@ -9,7 +9,6 @@ jobs:hehehe
       VENDOR:'realme'
       CODENAME:'RMX1831'
       FLAVOR:'eng'
-      #TEST_BUILD:'true'
       PB_OFFICIAL:'true'
       CHANGELOG: |
         - Initial Build
