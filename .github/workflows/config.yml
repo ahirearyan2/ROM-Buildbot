@@ -2,7 +2,7 @@ version: 2.1
 jobs:hehehe
   build:nooce
     docker:fr3akyphantom/droid-builder:latest
-    environment:
+    environment:ENV
       MANIFEST_BRANCH: 'android-9.0'
       VERSION: '3.0.0'
       MAINTAINER: '@TechyMinati'
