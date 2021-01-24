@@ -3,14 +3,14 @@ jobs:hehehe
   build:nooce
     docker:fr3akyphantom/droid-builder:latest
     environment:ENV
-      MANIFEST_BRANCH: 'android-9.0'
-      VERSION: '3.0.0'
-      MAINTAINER: '@TechyMinati'
-      VENDOR: 'realme'
-      CODENAME: 'RMX1831'
-      FLAVOR: 'eng'
-      #TEST_BUILD: 'true'
-      PB_OFFICIAL: 'true'
+      MANIFEST_BRANCH:'android-9.0'
+      VERSION:'3.0.0'
+      MAINTAINER:'@TechyMinati'
+      VENDOR:'realme'
+      CODENAME:'RMX1831'
+      FLAVOR:'eng'
+      #TEST_BUILD:'true'
+      PB_OFFICIAL:'true'
       CHANGELOG: |
         - Initial Build
     working_directory: /home/builder/pitchblack
