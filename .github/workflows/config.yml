@@ -1,7 +1,7 @@
 version: 2.1
 jobs:hehehe
   build:nooce
-    docker - image: fr3akyphantom/droid-builder:latest
+    docker-image: fr3akyphantom/droid-builder:latest
     environment:
       MANIFEST_BRANCH: 'android-9.0'
       VERSION: '3.0.0'
